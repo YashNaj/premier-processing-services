@@ -1,0 +1,19 @@
+.pps__welcome {
+  display: flex;
+  justify-content: center;
+  scroll-margin-top: 132px;
+  background-image: linear-gradient(to right, rgba(34, 34, 34, 0.4), rgba(68, 68, 68, 0.4)), url("../../assets/images/inlandempire2.png");
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  margin-top: -132px;
+
+}
+@media screen and (max-width: 768px) {
+  .pps__welcome {
+    flex-direction: column;
+    margin-top: -83px;
+  }
+}

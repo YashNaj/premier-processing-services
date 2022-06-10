@@ -1,0 +1,9 @@
+import React from 'react'
+
+const useCroll = () => {
+  return (
+    <div>useCroll</div>
+  )
+}
+
+export default useCroll
