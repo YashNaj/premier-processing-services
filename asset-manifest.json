@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94195095.css",
+    "main.js": "/static/js/main.5456af1d.js",
+    "static/media/inlandempire2.png": "/static/media/inlandempire2.6bd5f7b445200adaaf75.png",
+    "static/media/text249.png": "/static/media/text249.e66419db3f25fa0a9d07.png",
+    "index.html": "/index.html",
+    "main.94195095.css.map": "/static/css/main.94195095.css.map",
+    "main.5456af1d.js.map": "/static/js/main.5456af1d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94195095.css",
+    "static/js/main.5456af1d.js"
+  ]
+}
